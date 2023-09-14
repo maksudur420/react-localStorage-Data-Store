@@ -1,0 +1,15 @@
+.header{
+    width: 100%!important;
+    padding: 20px;
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: paleturquoise;
+    margin: 0px !important;;
+}
+@media screen and (max-width:726px) {
+    .header{
+        width: 100%!important;
+    }
+}

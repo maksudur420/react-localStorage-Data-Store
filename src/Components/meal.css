@@ -1,0 +1,16 @@
+.card{
+    border-radius: 8px;
+    padding: 10px;
+    position: relative;
+    box-shadow: 2px 2px 3px gray;
+    margin: 10px;
+}
+
+.cart{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.card img{
+    width: 100%;
+}
